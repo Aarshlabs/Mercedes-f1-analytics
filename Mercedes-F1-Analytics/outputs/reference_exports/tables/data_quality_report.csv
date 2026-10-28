@@ -1,0 +1,10 @@
+Check,Result,Status
+Primary key duplicates (Season + Race No + Driver),0,PASS
+Exact duplicate source rows,0,PASS
+Position-gain calculation mismatches,0,PASS
+Weekend-point calculation mismatches,0,PASS
+Win-flag mismatches vs numeric finish,0,PASS
+Podium-flag mismatches vs numeric finish,0,PASS
+Date-year mismatches after correction,0,PASS
+Known date corrections applied,2,DOCUMENTED
+2021 qualifying positions available,0,LIMITATION

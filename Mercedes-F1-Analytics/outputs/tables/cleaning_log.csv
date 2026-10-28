@@ -1,0 +1,8 @@
+issue,rows_changed,fix
+Race date typed as 2029 (2025 Austrian GP),2,set to 2025-06-29
+Q2 time typed with extra digit (Qatar 2025),2,"1:120.084 -> 1:20.084, 1:120.186 -> 1:20.186 (fits between Q1 and Q3)"
+"Word 'DNF' typed in Q2 column (Russell, Monaco 2025)",1,set to missing (no time set)
+"Lap record typed 1:16:627 (Hungaroring, 2021 rows)",2,changed to 1:16.627
+Leading or trailing spaces in text columns,0,"checked: none found, nothing changed"
+Circuit names differ between seasons,60,36 names -> 28 circuits (new column 'Circuit')
+'+n laps' written in lower case,6,changed to '+1 Lap' / '+2 Laps'

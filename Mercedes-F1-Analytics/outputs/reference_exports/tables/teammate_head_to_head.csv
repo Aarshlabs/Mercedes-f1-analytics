@@ -1,0 +1,4 @@
+Driver A,Driver B,Seasons,Paired races (both numeric finishes),Driver A finished ahead,Driver B finished ahead,Same finishing position,Median finish-position difference (A − B),Non-tied pairs used in test,Wilcoxon p-value,Holm-adjusted p-value
+Lewis Hamilton,Valtteri Bottas,2021–2021,17,14,3,0,-2.0,17,0.029,0.0581
+Lewis Hamilton,George Russell,2022–2024,57,28,29,0,1.0,57,0.5686,0.5686
+George Russell,Kimi Antonelli,2025–2025,20,17,3,0,-3.0,20,0.0007,0.0022
