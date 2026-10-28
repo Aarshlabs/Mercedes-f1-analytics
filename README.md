@@ -25,9 +25,9 @@ Open the Power BI report in Power BI Desktop:
 
 ## 🧰 Data Source
 [Formula 1 Datasets](https://github.com/toUpperCase78/formula1-datasets)
-## 📊 Power BI Dashboard Preview
 
-![Mercedes F1 Power BI Dashboard](power-bi-dashboard-preview.png)
+## 📊 Power BI Dashboard Preview
+<img width="1672" height="941" alt="power-bi-dashboard-preview (1)" src="https://github.com/user-attachments/assets/7f6d1282-a5df-4e7b-ae1a-a9a86e652027" />
 
 ## 👤 Author
 Aarsh Shrivas
